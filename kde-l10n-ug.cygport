@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-ug"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Uyghur translation files"
+DESCRIPTION="KDE Uyghur translation files"
